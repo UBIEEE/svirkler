@@ -18,6 +18,13 @@ Here you should include a detailed explanation of how your software will work. T
 
 ### Hardware Plan
 
+LiPo Battery
+
+Geared Motors, solder encoder, 50:1 gear ratio 
+
+ESP32 Because I cool like that
+
+
 This should be a more detailed explanation of how your hardware will work. This should include the electrical requirements of all the individual components of your system and how those requirements will be managed. This should also include a detailed explanation of the hardware components of your system and how they will interact with each other. This should include a detailed explanation of the sensors you will be using, how they work, and how you will be using them to complete your task. This should also include specifications of your components, including the voltage/current ranges they support as well as their physical dimensions (when applicable). 
 
 Please include an Electrical Schematic somewhere in this repository showing excatly how each component connects together. You may use any software for this. We recommend KiCAD (ignore the PCB design part of the application, just use the schematic builder), but you may use any software you like.
@@ -32,7 +39,7 @@ For each component include a link to its product page, quantity, price, and a de
 ## Teammates and Responsibilities
 
 ### Sam Virkler
-## Responsibilities:
+### Responsibilities:
 Everything
 
 ## Milestones
