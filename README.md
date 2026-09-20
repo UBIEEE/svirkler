@@ -9,6 +9,8 @@ Key features:
   
   Cornering
 
+This hitherto unnamed micromouse will be a mostly constructed from COTS parts powered by a central ESP32 devboard. It will consist of two geared brushed dc motors each connected to two wheels through a simple drivetrain. It will contain 4 IR sensors for positioning relative to the walls, and a accelerometer/gyrometer unit for additional precision. It will lastly use a Lithium Ion battery for power, as the safety and relative high energy per weight ratio are pros, and the relatively higher discharge rate of the LiPo battery is not required as speed is not (yet) a priority. The frame will be a width of 10cm and a length of 15. This is to allow cornering, although likely the first phase of this micromouse will not have the software ability to do this. The mouse will move orthagonally until I learn how to do it better. It will be programmed in C++. 
+
 
 The overview should be a general description of your project. This should be a high level overview of your design decisions and how you will implement them, including detailed information on how you will handle difficulties such as software and hardware integration. This should also contain information on the hardware including references to the electrical requirements of all the individual components of your system and how those requirements will be managed. You should also discuss what kind of software you will be running, undergo a brief analysis to show you have the compute power to run your software, and discuss how the software will use the inputs your hardware gives it to complete its task. 
 
